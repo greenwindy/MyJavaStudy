@@ -1,4 +1,4 @@
-@[TOC](目录)
+[TOC]
 在线API：[API中文手册](https://www.matools.com/api/java8)或[菜鸟编程](https://www.runoob.com/manual/jdk1.6/java/lang/package-summary.html)
 # 1. 基本程序设计
 ## 关键字和保留字
