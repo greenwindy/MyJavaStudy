@@ -1,4 +1,4 @@
-[toc]
+[TOC]
 # HashMap
 
 ## 特点以及源码分析
